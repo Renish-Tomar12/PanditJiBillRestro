@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/PanditJiBillRestro/static/css/main.34041629.css",
+    "main.js": "/PanditJiBillRestro/static/js/main.0e5e1e90.js",
+    "static/js/977.d0774c40.chunk.js": "/PanditJiBillRestro/static/js/977.d0774c40.chunk.js",
+    "static/js/732.4104fd5c.chunk.js": "/PanditJiBillRestro/static/js/732.4104fd5c.chunk.js",
+    "static/js/453.2940de4c.chunk.js": "/PanditJiBillRestro/static/js/453.2940de4c.chunk.js",
+    "index.html": "/PanditJiBillRestro/index.html",
+    "main.34041629.css.map": "/PanditJiBillRestro/static/css/main.34041629.css.map",
+    "main.0e5e1e90.js.map": "/PanditJiBillRestro/static/js/main.0e5e1e90.js.map",
+    "977.d0774c40.chunk.js.map": "/PanditJiBillRestro/static/js/977.d0774c40.chunk.js.map",
+    "732.4104fd5c.chunk.js.map": "/PanditJiBillRestro/static/js/732.4104fd5c.chunk.js.map",
+    "453.2940de4c.chunk.js.map": "/PanditJiBillRestro/static/js/453.2940de4c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34041629.css",
+    "static/js/main.0e5e1e90.js"
+  ]
+}
